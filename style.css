@@ -1,17 +1,14 @@
 body {
-     background-color: green;
-}
-li {
-    float: left;
-}
-
-a {
-    display: block;
-    padding: 8px;
-    background-color: #dddddd;
+     width 960px; 
+     padding; 100px;
+     margin: 0px;
+     font-family: Calibri;
 }
 
-li {
-    display: inline;
-}
+h1 {
+     display: block;
+     font-size: 2em;
+     text-align: center;
+     font-weight: bold; 
+     
      
