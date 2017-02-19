@@ -35,6 +35,10 @@ li {
 li:last-child {
     border-right: none;
 }
+
+h1 { 
+  color: magenta;
+}
      
 
 
