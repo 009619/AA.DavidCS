@@ -30,9 +30,7 @@ li {
 
 
 
-li {
-    border-right: 2px solid #151515;
-}
+
 
 li:last-child {
     border-right: none;
