@@ -62,4 +62,7 @@ tr, td {
     border-spacing: 3px;
 }
      
-     
+     table {
+    width: 100%; 
+    background-color: #f1f1c1;
+}
