@@ -58,6 +58,8 @@ tr, td {
 }
      
      
-     
+     table {
+    border-spacing: 3px;
+}
      
      
