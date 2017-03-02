@@ -25,11 +25,12 @@ li {
     padding: 14px 16px;
     text-decoration: underline;
   font-family: monospace;
-  background-color: steelblue;
+  background-color: silver;
 }
 
 h3 {
   color: #6FDC6F;
+  font-family: 50px;
 }
 
 li {
