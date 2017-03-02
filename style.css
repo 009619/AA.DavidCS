@@ -79,3 +79,7 @@ tr, td {
 h2 {
   text-align: center;
   color: #6FDC6F;
+}
+.image1 {
+  float:left
+}
