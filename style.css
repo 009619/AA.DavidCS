@@ -73,6 +73,7 @@ h2 {
   position: absolute;
     left: 0px;
     bottom: 0px;
+  border-radius: 5px;
 }
 
 .image3 {
