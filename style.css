@@ -8,6 +8,12 @@ p {
   text-align: center;
 }
 
+a:-webkit-any-link {
+    color: -webkit-link;
+    text-decoration: none;
+    cursor: auto;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
