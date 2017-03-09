@@ -32,7 +32,7 @@ li {
 }
 
 h3 {
-  color: #6FDC6F;
+  color: white;
   font-size: 35px;
 }
 
@@ -41,7 +41,7 @@ li:last-child {
 }
 
 h1 { 
-  color: #6FDC6F;
+  color: white;
   font-family: serif;
 }
   
@@ -68,7 +68,7 @@ tr, td {
 
 h2 {
   text-align: center;
-  color: #6FDC6F;
+  color: white;
 }
 .image1 {
   position: absolute;
