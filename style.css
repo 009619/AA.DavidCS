@@ -37,9 +37,6 @@ h3 {
   font-size: 35px;
 }
 
-li:last-child {
-    border-right: none;
-}
 
 h1 { 
   color: white;
