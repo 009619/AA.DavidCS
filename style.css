@@ -29,6 +29,7 @@ ul {
 
 li a:hover{
   background-color: orange;
+  border-radius: 50px;
   
 }
 
