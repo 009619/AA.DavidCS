@@ -84,6 +84,11 @@ h2 {
   right: 300px; 
   top: 200px;
 }
+.image4 {
+  border-radius: 50px;
+  left: 300px; 
+  bottom: 178px;
+}
 .image10 {
     position: absolute;
   right: 0px;
