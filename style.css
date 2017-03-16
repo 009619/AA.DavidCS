@@ -7,14 +7,12 @@ p {
   color:#6FDC6F;
   text-align: center;
 }
-
 a:-webkit-any-link {
     color: -webkit-link;
     text-decoration: none;
     cursor: auto;
     color: white;
 }
-
 ul {
     list-style-type: none;
     margin: 0;
@@ -24,15 +22,11 @@ ul {
   font-size: 40px;
   color: white;
   text-decoration: none;
- 
 }
-
 li a:hover{
   background-color: orange;
   border-radius: 50px;
-  
-}
-
+  }
 li {
     display: block;
     color: white;
@@ -42,31 +36,19 @@ li {
   background-color: blue;
   float: left;
   text-decoration: none;
- 
-}
-
+ }
 li a{
   text-decoration: none;
-  
-}
-
+  }
 h3 {
   color: white;
   font-size: 35px;
 }
-
-
 h1 { 
   color: white;
   font-family: serif;
   text-align: left;
   
-}
-  
-}
-
-
-
 }
 tr, td {
     padding: 15px;
@@ -77,13 +59,11 @@ tr, td {
 }    
      table {
     border-spacing: 3px;
-}
-     
+}     
      table {
     width: 100%; 
     background-color: #F6F09C;
 }
-
 h2 {
   text-align: center;
   color: white;
@@ -99,13 +79,13 @@ h2 {
   float: right;
   border-radius: 50px;
 }
-
+.image10 {
+    position: absolute;
+  right: 0px;
+  bottom: 0px;
+  }
 .image5 {
   border-radius: 50px;
   
 
-.image7 {
-  position: absolute;
-  right: 0px;
-  bottom: 0px;
-  }
+
