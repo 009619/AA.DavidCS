@@ -74,14 +74,16 @@ h2 {
 }
 .image1 {
   position: absolute;
-    left: 0px;
-    bottom: 0px;
+    left: 100px;
+    bottom: 80px;
   border-radius: 50px;
 }
 
 .image3 {
   float: right;
   border-radius: 50px;
+  right: 300px; 
+  top: 200px;
 }
 .image10 {
     position: absolute;
