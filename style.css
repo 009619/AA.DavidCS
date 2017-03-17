@@ -74,7 +74,7 @@ h2 {
 }
 .image1 {
   position: absolute;
-    left: 50px;
+    left: 100px;
     bottom: 300px;
   border-radius: 50px;
 }
@@ -91,7 +91,7 @@ h2 {
 }
 .image11 {
   border-radius: 50px;
-  right: 50px; 
+  right: 25px; 
   top: 200px;
 }
 .image10 {
