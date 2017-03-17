@@ -91,13 +91,13 @@ h2 {
 }
 .image11 {
   border-radius: 50px;
-  right: 25px; 
+  right: 0px; 
   top: 200px;
 }
 .image10 {
     position: absolute;
   right: 380px;
-  bottom: 0px;
+  bottom: 200px;
    border-radius: 50px;
   }
 .image5 {
