@@ -72,11 +72,15 @@ h2 {
   text-align: center;
   color: white;
 }
-.image1 {
+.image2 {
   position: absolute;
     left: 100px;
     bottom: 300px;
   border-radius: 50px;
+}
+.image1 {
+  left: 0px;
+  bottom: 0px;
 }
 
 .image3 {
