@@ -3,8 +3,8 @@ body {
   color: black;
 }
 p {
-  font-size: 80px;
-  color:#6FDC6F;
+  ;
+  color: white;
   text-align: center;
 }
 a:-webkit-any-link {
@@ -51,7 +51,8 @@ h4 {
 h1 { 
   color: white;
   font-family: serif;
-  text-align: left;
+  text-align: center;
+ 
   
 }
 tr, td {
